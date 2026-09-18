@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1375260830.svg)](https://doi.org/10.5281/zenodo.22833959)
+
 # TriNetX & Epic Cosmos Literature Analysis
 
 A bibliometric pipeline that identifies published studies using the **TriNetX** and **Epic Cosmos** federated EHR platforms, enriches them with journal- and article-level metrics, classifies them by clinical topic, and produces summary figures.
