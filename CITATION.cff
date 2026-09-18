@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: TDSL Trinetx & Cosmos dataset Query
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Peter
+    name-particle: Peter
+    family-names: Leese
+    email: peleese@email.unc.edu
+    affiliation: UNC Chapel Hill
+    orcid: 'https://orcid.org/0000-0001-9730-1675'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22833960
+repository-code: 'https://github.com/NCTraCSIDSci/cosmos_trinetx_analysis'
+license: MIT
+date-released: '2026-09-18'
